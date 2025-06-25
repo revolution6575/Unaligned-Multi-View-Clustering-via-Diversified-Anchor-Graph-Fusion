@@ -1,4 +1,4 @@
-# Unaligned Multi-View Clustering via Diversified Anchor Graph Fusion
+# DAGF
 
 This is the source code for DAGF: Unaligned Multi-View Clustering via Diversified Anchor Graph Fusion
 
