@@ -16,6 +16,14 @@ Clear sample correspondence across views is a key presupposition of traditional 
 
 If you find our approach useful in your research, please consider citing: 
 
+@article{jiang2025unaligned,
+  title={Unaligned multi-view clustering via diversified anchor graph fusion},
+  author={Jiang, Hongyu and Tao, Hong and Jiang, Zhangqi and Hou, Chenping},
+  journal={Pattern Recognition},
+  pages={111977},
+  year={2025},
+  publisher={Elsevier}
+}
 
 # Email
 
